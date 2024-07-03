@@ -2,6 +2,18 @@ hello i'm developer 1
 
 
 
+<<<<<<< HEAD
+
+hello this is ec2 user
+hello this is ec2 user-2
+
+hi i'm first user 
+=======
 this is mac user
 mac user 2nd iteration 
+<<<<<<< HEAD
 hello 3rd line
+=======
+
+>>>>>>> origin
+>>>>>>> refs/remotes/origin/main

@@ -6,6 +6,8 @@ hello i'm developer 1
 
 hello this is ec2 user
 hello this is ec2 user-2
+
+hi i'm first user 
 =======
 this is mac user
 mac user 2nd iteration 

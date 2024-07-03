@@ -2,6 +2,12 @@ hello i'm developer 1
 
 
 
+<<<<<<< HEAD
 
 hello this is ec2 user
 hello this is ec2 user-2
+=======
+this is mac user
+mac user 2nd iteration 
+
+>>>>>>> origin

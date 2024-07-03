@@ -4,3 +4,4 @@ hello i'm developer 1
 
 
 hello this is ec2 user
+hello this is ec2 user-2
